@@ -1,0 +1,21 @@
+name precision recall f1 accuracy type
+EA 94 95 94 94 raw
+EB 86 80 83 94 raw
+ELL 92 32 47 94 raw
+EW 96 97 97 94 raw
+macro_avg 92 76 80 94 raw
+weighted_avg 94 94 94 94 raw
+
+EA 94 95 94 93 10
+EB 83 80 82 93 10
+ELL 81 45 58 93 10
+EW 96 97 96 93 10
+macro_avg 88 79 82 93 10
+weighted_avg 93 93 93 93 10
+
+EA 94 95 94 94 15
+EB 84 80 82 94 15
+ELL 80 42 55 94 15
+EW 96 97 96 94 15
+macro_avg 89 79 82 94 15
+weighted_avg 93 93 93 94 15

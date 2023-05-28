@@ -1,0 +1,10 @@
+2173 amplitude
+3251 period
+2258 mean
+1863 median
+3181 std
+2320 skewness
+1647 kurtosis
+2403 shapiro_w
+2192 IQR
+2712 p2p

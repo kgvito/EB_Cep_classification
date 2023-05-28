@@ -1,0 +1,10 @@
+3028 period
+2252 r42
+1974 r21
+1962 skewness
+2101 phase_eta
+1479 r32
+1644 kurtosis
+1549 b32
+1445 similarity
+1766 b2

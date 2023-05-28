@@ -1,0 +1,15 @@
+1663 amplitude
+2746 period
+1268 mean
+1344 median
+2765 std
+1303 skewness
+1231 kurtosis
+1387 shapiro_w
+1437 IQR
+1955 p2p
+1123 stetson_k
+1795 MAD
+1130 hl_amp_ratio
+1099 Mm_ratio
+1754 h_1

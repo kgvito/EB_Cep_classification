@@ -1,0 +1,15 @@
+3230 period
+2373 r42
+1914 r21
+1724 skewness
+1752 phase_eta
+1593 r32
+1443 kurtosis
+1315 b32
+1326 similarity
+1532 b2
+1334 phase_cusum
+1510 b1
+1166 median
+676 mean
+1112 r52
